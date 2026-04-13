@@ -74,8 +74,11 @@ From **Skardu, Gilgit-Baltistan** -- where the mountains meet the sky.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-hasnain7abbas-181717?style=flat-square&logo=github)](https://github.com/hasnain7abbas)
-[![Instagram](https://img.shields.io/badge/Instagram-hasnain7abbas-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hasnain7abbas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasnain_Abbas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-abbas-659943273/)
+[![Instagram](https://img.shields.io/badge/Instagram-hasnain7abbas-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/user/hasnain7abbas/)
+[![Facebook](https://img.shields.io/badge/Facebook-hasnain7abbas-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/user/hasnain7abbas/)
 [![Reddit](https://img.shields.io/badge/Reddit-hasnain7abbas-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/hasnain7abbas/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923438833262)
 [![Email](https://img.shields.io/badge/Email-hsnanrzee1160@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hsnanrzee1160@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hasnain--abbas.vercel.app-d97706?style=flat-square&logo=vercel&logoColor=white)](https://hasnain-abbas.vercel.app)
 
