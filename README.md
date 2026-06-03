@@ -56,50 +56,40 @@ Tailwind      WebAssembly       Docker       Linux
 
 ## III. Featured Works
 
-<div align="center">
-
-<a href="https://github.com/hasnain7abbas/Madar">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain7abbas&repo=Madar&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/hasnain7abbas/visualize-physics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain7abbas&repo=visualize-physics&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/hasnain7abbas/memristor-analyzer">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain7abbas&repo=memristor-analyzer&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/hasnain7abbas/optics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain7abbas&repo=optics&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/hasnain7abbas/seeing-theory-desktop">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain7abbas&repo=seeing-theory-desktop&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/hasnain7abbas/citestrike">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain7abbas&repo=citestrike&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/hasnain7abbas/particle-sandbox">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain7abbas&repo=particle-sandbox&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/hasnain7abbas/Knowledge-Base">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain7abbas&repo=Knowledge-Base&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-</div>
+| Project | Description |
+| :--- | :--- |
+| **[Madar](https://github.com/hasnain7abbas/Madar)** | Interactive STEM simulation browser — 247 physics, chemistry, biology, math & engineering simulations. Tauri desktop + web. |
+| **[visualize-physics](https://github.com/hasnain7abbas/visualize-physics)** | A visual introduction to quantum & statistical physics — 18 simulations, 200+ statistical tools, KaTeX math rendering. |
+| **[memristor-analyzer](https://github.com/hasnain7abbas/memristor-analyzer)** | Memristor characterization & neuromorphic ANN simulation — extracts non-linearity, write noise & conductance from LTP/LTD data, simulates MNIST accuracy. |
+| **[optics](https://github.com/hasnain7abbas/optics)** | High-performance, zero-install 2D optics simulator — real-time ray tracing, Snell's law, chromatic dispersion. Rust + WebAssembly. |
+| **[seeing-theory-desktop](https://github.com/hasnain7abbas/seeing-theory-desktop)** | A visual, interactive introduction to probability & statistics — fast, offline Tauri v2 app with Rust-powered computation. |
+| **[citestrike](https://github.com/hasnain7abbas/citestrike)** | Blazing-fast, local-first citation manager — summon your library anywhere with Ctrl+Shift+C. Rust + Tauri + Svelte. |
+| **[particle-sandbox](https://github.com/hasnain7abbas/particle-sandbox)** | A blazing-fast 2D physics playground — interactive STEM physics simulator. Tauri v2 + Rust. |
+| **[Knowledge-Base](https://github.com/hasnain7abbas/Knowledge-Base)** | Local-first, fully offline AI knowledge base — index PDFs, Markdown & codebases, query with a local LLM via Ollama. |
 
 ---
 
 ## IV. Statistics
 
+<!--
+  GitHub Stats & Top Languages are served by a SELF-HOSTED github-readme-stats instance.
+  The public github-readme-stats.vercel.app is rate-limited / frequently paused (503),
+  so deploy your own (free) and replace YOUR-INSTANCE below with your Vercel domain:
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Create a GitHub PAT (classic, no scopes needed) -> Vercel env var PAT_1
+    3. "Deploy" on Vercel -> copy the *.vercel.app domain
+    4. Find/replace YOUR-INSTANCE.vercel.app in this file with that domain
+  (Transparent bg is set via bg_color=00000000 — there is no "transparent" theme.)
+-->
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasnain7abbas&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=hasnain7abbas&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnain7abbas&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=30363d" alt="GitHub Streak" />
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain7abbas&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="38%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=hasnain7abbas&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
