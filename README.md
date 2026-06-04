@@ -13,12 +13,13 @@
 ---
 
 <a href="https://hasnain7abbas.github.io/hasnain-portfolio/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/hasnain7abbas/hasnain7abbas/blob/main/Resume_Hasnain_Abbas.pdf"><img src="https://img.shields.io/badge/Resume-181717?style=flat-square&logo=readdotcv&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hasnain-abbas-659943273/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/user/hasnain7abbas/"><img src="https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/user/hasnain7abbas/"><img src="https://img.shields.io/badge/Facebook-181717?style=flat-square&logo=facebook&logoColor=white" /></a>
 <a href="https://www.reddit.com/user/hasnain7abbas/"><img src="https://img.shields.io/badge/Reddit-181717?style=flat-square&logo=reddit&logoColor=white" /></a>
 <a href="https://wa.me/923438833262"><img src="https://img.shields.io/badge/WhatsApp-181717?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-<a href="mailto:hasnainqau5112@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:hsnanrzee1160@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
